@@ -1,0 +1,29 @@
+/* .foto{
+    height: 190px;
+    object-fit: cover;
+} */
+
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+
+#projects{
+    background-color: #e2edff;
+
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color:  rgb(70, 119, 243);
+
+}
+
+section {
+    padding-top: 5rem;
+  }
+
+#projects{
+    background-color: rgb(70, 119, 243);
+
+}
